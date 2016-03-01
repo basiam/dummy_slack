@@ -3,3 +3,5 @@
 * `rails generate controller rooms show`
 * `rails g model message content:text`
 * `rails db:migrate`
+* `rails g channel room speak`
+* `rails g job MessageBroadcast`
